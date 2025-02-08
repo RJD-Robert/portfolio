@@ -17,7 +17,7 @@ title = "Robert Josef Domogalla"
 [params.author]
    name = "Robert Josef Domogalla"
 #   email = ""
-   image = "img/profile.jpg"
+#   image = "img/profile.jpg"
    imageQuality = 96
    headline = "Software Developer & Data Scientist | M.Sc. in Computational and Data Science"
    bio = "I am a software developer and data scientist with a M.Sc. in Computational and Data Science. I am passionate about software development, data science, and machine learning. I am always eager to learn new things and to improve my skills. I am a team player and I love to work in interdisciplinary teams. I am a creative and innovative thinker and I love to solve complex problems. I am a fast learner and I am always open to new challenges. I am a highly motivated and ambitious person and I am always striving for excellence."
