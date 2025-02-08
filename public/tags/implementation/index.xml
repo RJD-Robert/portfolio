@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Implementation on Robert Josef Domogalla</title>
-    <link>http://localhost:1313/tags/implementation/</link>
+    <link>https://www.robertjosefdomogalla.com/tags/implementation/</link>
     <description>Recent content in Implementation on Robert Josef Domogalla</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Robert Josef Domogalla</copyright>
-    <lastBuildDate>Sat, 12 Oct 2024 10:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/implementation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Oct 2024 10:00:00 +0200</lastBuildDate><atom:link href="https://www.robertjosefdomogalla.com/tags/implementation/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Stock Price Prediction</title>
-      <link>http://localhost:1313/projects/bigdata/</link>
+      <link>https://www.robertjosefdomogalla.com/projects/bigdata/</link>
       <pubDate>Sat, 12 Oct 2024 10:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/projects/bigdata/</guid>
+      <guid>https://www.robertjosefdomogalla.com/projects/bigdata/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/bigdata/feature_bigdata.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.robertjosefdomogalla.com/projects/bigdata/feature_bigdata.png" />
     </item>
     
     <item>
       <title>Key Point Generation</title>
-      <link>http://localhost:1313/projects/master/</link>
+      <link>https://www.robertjosefdomogalla.com/projects/master/</link>
       <pubDate>Thu, 12 Sep 2024 10:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/projects/master/</guid>
+      <guid>https://www.robertjosefdomogalla.com/projects/master/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/master/feature_master.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.robertjosefdomogalla.com/projects/master/feature_master.png" />
     </item>
     
     <item>
       <title>Binary Image Classification</title>
-      <link>http://localhost:1313/projects/bachlor/</link>
+      <link>https://www.robertjosefdomogalla.com/projects/bachlor/</link>
       <pubDate>Sat, 01 Apr 2023 10:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/projects/bachlor/</guid>
+      <guid>https://www.robertjosefdomogalla.com/projects/bachlor/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/bachlor/feature_bachlor.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.robertjosefdomogalla.com/projects/bachlor/feature_bachlor.png" />
     </item>
     
   </channel>
