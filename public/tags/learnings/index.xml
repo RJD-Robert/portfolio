@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learnings on Robert Josef Domogalla</title>
+    <link>http://localhost:1313/tags/learnings/</link>
+    <description>Recent content in Learnings on Robert Josef Domogalla</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Robert Josef Domogalla</copyright>
+    <lastBuildDate>Wed, 12 Aug 2020 10:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/learnings/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Become a Data Head</title>
+      <link>http://localhost:1313/learnings/data_head/</link>
+      <pubDate>Wed, 12 Aug 2020 10:00:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/learnings/data_head/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/learnings/data_head/feature_2_data_head.png" />
+    </item>
+    
+  </channel>
+</rss>
