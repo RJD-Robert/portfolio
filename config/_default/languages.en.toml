@@ -9,14 +9,14 @@ title = "Robert Josef Domogalla"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-#   logo = "img/profile.jpg"
+  # logo = "img/profile.jpg"
   # secondaryLogo = "img/secondary-logo.png"
   description = "Portfolio of Robert Josef Domogalla"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
    name = "Robert Josef Domogalla"
-   email = "robert-domogalla@outlook.de"
+#   email = ""
    image = "img/profile.jpg"
    imageQuality = 96
    headline = "Software Developer & Data Scientist | M.Sc. in Computational and Data Science"
